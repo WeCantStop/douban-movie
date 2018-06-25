@@ -9,6 +9,9 @@
 </template>
 
 <style lang="scss">
+// mint-ui
+@import '@/styles/mint.scss';
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
